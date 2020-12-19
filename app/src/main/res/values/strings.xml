@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Yagmur_VizeOdevi</string>
+    <string name="ad">Adınızı Giriniz</string>
+    <string name="parola">Parola</string>
+    <string name="temaA">Açık</string>
+    <string name="temaK">Koyu</string>
+    <string name="tema">Tema:</string>
+    <string name="buton_giris">Giriş Yap</string>
+    <string name="desc">IMAGE</string>
+    <string name="islemturu">İŞLEM TÜRÜNÜ SEÇİNİZ</string>
+    <string name="btTaksit">Kredi Taksit</string>
+    <string name="btHesap">Hesap Makinesi</string>
+    <string name="btList">Kayıtlı Kullanıcılar</string>
+    <string name="krediHesaplamaEkrani">Kredi Hesaplama</string>
+    <string name="krediTutari">Kredi Tutarı</string>
+    <string name="taksitSayisi">Taksit Sayisi</string>
+    <string name="yuzdeBir">%1</string>
+    <string name="yuzdeIki">%2</string>
+    <string name="yuzdeBes">%5</string>
+    <string name="faizOraniGiriniz">Faiz Oranını Seçiniz</string>
+    <string name="Sonuc">Sonuç</string>
+</resources>
